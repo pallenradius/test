@@ -1,3 +1,7 @@
 lll 
  new text 
+<<<<<<< HEAD
 change3 
+=======
+4change 
+>>>>>>> master
